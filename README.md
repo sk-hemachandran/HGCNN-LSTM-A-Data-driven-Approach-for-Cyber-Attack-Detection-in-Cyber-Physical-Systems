@@ -1,6 +1,3 @@
-# HGCNN-LSTM-A-Data-driven-Approach-for-Cyber-Attack-Detection-in-Cyber-Physical-Systems
-
-
 Introduction
 HGCNN-LSTM is a data-driven approach designed for the detection of cyber attacks in Cyber-Physical Systems (CPS). This project leverages the strengths of both Graph Convolutional Neural Networks (GCNN) and Long Short-Term Memory (LSTM) networks to accurately identify and mitigate potential threats in CPS environments.
 
